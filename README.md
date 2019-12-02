@@ -1,6 +1,6 @@
 # **assessment-project**
 ## **TRY LINK**
- ### [**Food Recipies**](https://utkarshdd.github.io/assessment-project/)
+ ### [**Food Recipies**](https://vyash5075.github.io/assessment-project/)
 ## **Features**
 This Project tells About the Food recipies,cocktail tips and beers info through name, alphabets and id's.
 ## **Technologies used:-**
